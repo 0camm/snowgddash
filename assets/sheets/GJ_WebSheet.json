@@ -262,48 +262,6 @@
 					}
 				},
 				{
-					"filename": "RobTopLogoBig_001.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 296,
-						"h": 111
-					},
-					"spriteSourceSize": {
-						"x": 1,
-						"y": 5,
-						"w": 293,
-						"h": 104
-					},
-					"frame": {
-						"x": 256,
-						"y": 812,
-						"w": 293,
-						"h": 104
-					}
-				},
-				{
-					"filename": "downloadApple_001.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 284,
-						"h": 95
-					},
-					"spriteSourceSize": {
-						"x": 5,
-						"y": 5,
-						"w": 279,
-						"h": 90
-					},
-					"frame": {
-						"x": 256,
-						"y": 918,
-						"w": 279,
-						"h": 90
-					}
-				},
-				{
 					"filename": "slidergroove.png",
 					"rotated": false,
 					"trimmed": true,
