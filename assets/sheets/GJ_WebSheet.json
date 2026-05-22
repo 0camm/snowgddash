@@ -325,48 +325,6 @@
 					}
 				},
 				{
-					"filename": "downloadGoogle_001.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 284,
-						"h": 95
-					},
-					"spriteSourceSize": {
-						"x": 5,
-						"y": 5,
-						"w": 279,
-						"h": 90
-					},
-					"frame": {
-						"x": 551,
-						"y": 802,
-						"w": 279,
-						"h": 90
-					}
-				},
-				{
-					"filename": "downloadSteam_001.png",
-					"rotated": false,
-					"trimmed": true,
-					"sourceSize": {
-						"w": 284,
-						"h": 95
-					},
-					"spriteSourceSize": {
-						"x": 5,
-						"y": 5,
-						"w": 279,
-						"h": 90
-					},
-					"frame": {
-						"x": 551,
-						"y": 894,
-						"w": 279,
-						"h": 90
-					}
-				},
-				{
 					"filename": "getIt_001.png",
 					"rotated": false,
 					"trimmed": true,
